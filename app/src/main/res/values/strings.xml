@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MultiScreen</string>
+    <string name="edit_message">EDIT MESSAGE</string>
+    <string name="button_send">Send</string>
+    <string name="send_sms">SMS Screen</string>
+    <string name="phone_call_screen">Phone call Screen</string>
+    <string name="phone_call">Call</string>
+    <string name="message">Welcome to the APP!</string>
+    <string name="email_screen">Email Screen</string>
+    <string name="email_button_text">Email</string>
+    <string name="email_message">Click button to send emails</string>
+    <string name="email">Email Screen</string>
+</resources>
